@@ -1,4 +1,6 @@
 # Curso de Segurança da Informação da Fundação Bradesco
+## Status atual do curso:
+### Conclúido ✅ 
 
 ## Capítulos abordados no curso
 
